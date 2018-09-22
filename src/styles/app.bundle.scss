@@ -2,7 +2,9 @@
 
 // Plugins
 @import "node_modules/rfs/scss/rfs";
-@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bourbon/core/bourbon";
+@import "node_modules/bourbon-neat/app/assets/stylesheets/neat";
+
 @import url(node_modules/et-line/style.css);
 @import url(node_modules/@icon/themify-icons/themify-icons.css);
 $fa-font-path: "fonts" !default;
