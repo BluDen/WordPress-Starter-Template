@@ -1,0 +1,21 @@
+// Variables
+
+// Plugins
+@import "node_modules/rfs/scss/rfs";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import url(node_modules/et-line/style.css);
+@import url(node_modules/@icon/themify-icons/themify-icons.css);
+$fa-font-path: "fonts" !default;
+@import "node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+@import "node_modules/@fortawesome/fontawesome-free/scss/regular.scss";
+@import "node_modules/swipebox/scss/swipebox";
+@import url(node_modules/animate.css/animate.min.css);
+@import url(node_modules/owl.carousel/dist/assets/owl.carousel.min.css);
+
+
+// Customizations
+@import "header/header";
+@import "pages/pages";
+@import "footer/footer";
